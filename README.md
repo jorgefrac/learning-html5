@@ -40,7 +40,19 @@ Declarate
 
 ## Text
 * a
-* p
+* abbr
+* 
+
+## Blocks
+* address
+* blockquote
+
+## List
+ul
+ol
+li
+
+## Tables
 
 ## Forms
 * form
