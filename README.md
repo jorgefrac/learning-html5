@@ -14,8 +14,16 @@ Declarate
     </body>
 </html>
 ```
+## Headings
+* h1
+* h2
+* h3
+* h4
+* h5
+* h6
+* hgroup
 
-### Elements
+## Elements
 * header
 * nav
 * main
@@ -29,6 +37,14 @@ Declarate
 * figure
 * figcaption
 * footer
+
+## Text
+* p
+* a
+
+## Forms
+* form
+* label
 
 ### References
 [W3 org HTML5](https://www.w3.org/TR/html5/)
