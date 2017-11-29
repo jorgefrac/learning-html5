@@ -48,11 +48,15 @@ Declarate
 * blockquote
 
 ## List
-ul
-ol
-li
+* ul
+* ol
+* li
+* dl
+* dt
+* dd
 
 ## Tables
+* table
 
 ## Forms
 * form
