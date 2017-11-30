@@ -80,4 +80,4 @@
 
 📎 [html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/dom.html)
 
-[html5 semantic elements w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+📎 [html5 semantic elements w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
