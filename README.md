@@ -1,6 +1,6 @@
 # Learning HTML5
 
-Declarate
+## ⚙️ Declarate
 ```
 <!DOCTYPE html>
 <html>
@@ -14,6 +14,7 @@ Declarate
     </body>
 </html>
 ```
+
 ## 🖋 Headings
 * h1
 * h2
@@ -38,16 +39,18 @@ Declarate
 * figcaption
 * footer
 
-## Text
+## ✏️ Text
 * a
 * abbr
-* 
+* p
+* strong
 
-## Blocks
+## 🔵 Blocks
 * address
 * blockquote
+*
 
-## List
+## 📝 List
 * ul
 * ol
 * li
@@ -55,20 +58,26 @@ Declarate
 * dt
 * dd
 
-## Tables
-* table
-
-## Forms
+## 🗃 Forms
 * form
 * label
 * textarea
 * button
 
-### References
-[W3 org HTML5](https://www.w3.org/TR/html5/)
+## 📜 Tables
+* table
 
-[HTML Reference](http://htmlreference.io/)
+## ▶️ Media
+* video
+* source
 
-[html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/dom.html)
+## 📌 References
+📎 [W3 org HTML5](https://www.w3.org/TR/html5/)
+
+📎 [Developer mozila HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5)
+
+📎 [HTML Reference](http://htmlreference.io/)
+
+📎 [html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/dom.html)
 
 [html5 semantic elements w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
