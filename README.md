@@ -1,4 +1,5 @@
 # Learning HTML5
+❗️ (in development)
 
 ## ⚙️ Declarate
 ```
@@ -43,6 +44,7 @@
 * a
 * abbr
 * p
+* small
 * strong
 
 ## 🔵 Blocks
