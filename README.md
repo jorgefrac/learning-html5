@@ -34,7 +34,6 @@
 * article
 * details
 * sumary
-* mark
 * time
 * figure
 * figcaption
@@ -43,14 +42,16 @@
 ## ✏️ Text
 * a
 * abbr
+* data
 * p
 * small
 * strong
+* svg
 
 ## 🔵 Blocks
 * address
 * blockquote
-*
+* mark
 
 ## 📝 List
 * ul
@@ -65,7 +66,7 @@
 * button
 * label
 * textarea
-* inputs
+* input
     - button
     - checkbox
     - color
