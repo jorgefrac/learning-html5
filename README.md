@@ -62,9 +62,27 @@
 
 ## 🗃 Forms
 * form
+* button
 * label
 * textarea
-* button
+* inputs
+    - color
+    - checkbox
+    - date
+    - email
+    - month
+    - number
+    - password
+    - radio
+    - range
+    - search
+    - submit
+    - tel
+    - time
+    - text
+    - url
+    - week
+    
 
 ## 📜 Tables
 * table
