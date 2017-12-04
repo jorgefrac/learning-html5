@@ -66,15 +66,21 @@
 * label
 * textarea
 * inputs
-    - color
+    - button
     - checkbox
+    - color
     - date
+    - datetime
+    - datetime-local
     - email
+    - file
+    - hidden
     - month
     - number
     - password
     - radio
     - range
+    - reset
     - search
     - submit
     - tel
@@ -92,6 +98,8 @@
 * source
 
 ## 📌 References
+📎 [Developer mozila inputs type](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input)
+
 📎 [W3 org HTML5](https://www.w3.org/TR/html5/)
 
 📎 [Developer mozila HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5)
