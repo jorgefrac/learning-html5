@@ -43,6 +43,7 @@
 * a
 * abbr
 * data
+* em
 * p
 * small
 * strong
