@@ -42,12 +42,34 @@
 ## ✏️ Text
 * a
 * abbr
+b
+bdi
+bdo
+br
+cite
+code
 * data
+dfn
 * em
-* p
-* small
-* strong
-* svg
+i
+kbd
+mark
+nobr
+q
+rt
+rtc
+ruby
+s
+samp
+small
+span
+strong
+sub
+sup
+time
+u
+var
+wbr
 
 ## 🔵 Blocks
 * address
