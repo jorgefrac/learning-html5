@@ -2,7 +2,7 @@
 ❗️ (in development)
 
 ## ⚙️ Declarate
-```
+``` html
 <!DOCTYPE html>
 <html>
     <head>
