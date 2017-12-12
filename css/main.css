@@ -4,12 +4,16 @@ html{
 
 body{
 	margin: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #000000;
+	font-size: 16px;
 	background-color: #ffffff;
 }
 
 /*= Titles
 ------------------------------------------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6{
+	font-family: 'Zilla Slab', serif;
 	font-weight: bold;
 	font-style: normal;
 }
@@ -45,11 +49,27 @@ a{
 }
 
 abbr{
+
+}
+
+b{
+
+}
+
+bdi{
+
+}
+
+bdo{
+
+}
+
+cite{
 	
 }
 
 data{
-	
+
 }
 
 p{
@@ -57,5 +77,5 @@ p{
 }
 
 small{
-	display: block;
+
 }

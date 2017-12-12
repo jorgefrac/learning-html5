@@ -17,6 +17,7 @@
 ```
 
 ## 🖋 Headings
+Titles
 * h1
 * h2
 * h3
@@ -40,41 +41,42 @@
 * footer
 
 ## ✏️ Text
+display inline block
 * a
 * abbr
-b
-bdi
-bdo
-br
-cite
-code
+* b
+* bdi
+* bdo
+* cite
 * data
-dfn
+* dfn
 * em
-i
-kbd
-mark
-nobr
-q
-rt
-rtc
-ruby
-s
-samp
-small
-span
-strong
-sub
-sup
-time
-u
-var
-wbr
+* i
+* kbd
+* mark
+* nobr
+* q
+* rt
+* rtc
+* s
+* samp
+* small
+* span
+* strong
+* sub
+* sup
+* time
+* u
+* var
+* wbr
 
 ## 🔵 Blocks
+display block
 * address
 * blockquote
-* mark
+* br
+* code
+* ruby
 
 ## 📝 List
 * ul
@@ -86,6 +88,8 @@ wbr
 
 ## 🗃 Forms
 * form
+* fieldset
+* legend
 * button
 * label
 * textarea
