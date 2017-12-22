@@ -27,18 +27,18 @@ Titles
 * hgroup
 
 ## 📚 Elements
+* area !
+* article
+* aside
+* details !
+* div
+* dialog !
+* footer
 * header
 * nav
 * main
-* aside
 * section
-* article
-* details
-* sumary
-* time
-* figure
-* figcaption
-* footer
+* sumary !
 
 ## ✏️ Text
 display inline block
@@ -54,7 +54,8 @@ display inline block
 * i
 * kbd
 * mark
-* nobr
+* nobr (Obsolete)
+* p (block)
 * q
 * rt
 * rtc
@@ -75,8 +76,8 @@ display block
 * address
 * blockquote
 * br
-* code
-* ruby
+* hr
+* pre
 
 ## 📝 List
 * ul
@@ -116,17 +117,38 @@ display block
     - text
     - url
     - week
-    
+
 
 ## 📜 Tables
+* caption
 * table
+* col
+* colgroup
+* tbody
+* tfoot
+* thead
+* td
+* th
+* tr
 
 ## ▶️ Media
+* figure
+* figcaption
+* images
 * video
 * source
+* map
+* source
+* track
+* audio
+* embed
+* object
+* param
 
 ## 📌 References
 📎 [Developer mozila inputs type](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input)
+
+📎 [Mozila HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 📎 [W3 org HTML5](https://www.w3.org/TR/html5/)
 

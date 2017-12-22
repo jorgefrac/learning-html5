@@ -1,5 +1,12 @@
 html{
+	box-sizing: border-box;
+	-ms-overflow-style: scrollbar;
+}
 
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
 }
 
 body{
@@ -7,6 +14,8 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #000000;
 	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
 	background-color: #ffffff;
 }
 
@@ -14,8 +23,10 @@ body{
 ------------------------------------------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Zilla Slab', serif;
-	font-weight: bold;
+	color: inherit;
+	font-weight: 700;
 	font-style: normal;
+	margin-top: 0;
 }
 
 h1{
@@ -64,18 +75,238 @@ bdo{
 
 }
 
+br{
+
+}
+
 cite{
-	
+
+}
+
+code{
+
 }
 
 data{
 
 }
 
+dfn{
+
+}
+
+em{
+
+}
+
+i{
+
+}
+
+kbd{
+
+}
+
+mark{
+
+}
+
 p{
+	margin-top: 0;
+}
+
+q{
+
+}
+
+rp{
+
+}
+
+rt{
+
+}
+
+rtc{
+
+}
+
+ruby{
+
+}
+
+s{
+
+}
+
+samp{
 
 }
 
 small{
+
+}
+
+span{
+
+}
+
+strong{
+
+}
+
+sub{
+
+}
+
+sup{
+
+}
+
+time{
+
+}
+
+u{
+
+}
+
+var{
+
+}
+
+wbr{
+
+}
+
+/*= List
+------------------------------------------------------------------------------------------*/
+ul{
+
+}
+
+ol{
+
+}
+
+li{
+
+}
+
+dl{
+
+}
+
+dt{
+
+}
+
+dd{
+
+}
+
+/*= Elements
+------------------------------------------------------------------------------------------*/
+area{
+
+}
+
+article{
+
+}
+
+aside{
+
+}
+
+details{
+
+}
+
+dialog{
+
+}
+
+footer{
+
+}
+
+header{
+
+}
+
+nav{
+
+}
+
+main{
+
+}
+
+section{
+
+}
+
+sumary{
+
+}
+
+/*= Blocks
+------------------------------------------------------------------------------------------*/
+address{
+
+}
+
+blockquote{
+
+}
+
+br{
+
+}
+
+hr{
+
+}
+
+pre{
+
+}
+
+/*= Table
+------------------------------------------------------------------------------------------*/
+caption{
+
+}
+
+col{
+
+}
+
+colgroup{
+
+}
+
+table{
+
+}
+
+thead{
+
+}
+
+tbody{
+
+}
+
+tfoot{
+
+}
+
+tr{
+
+}
+
+td{
 
 }

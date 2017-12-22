@@ -16,4 +16,5 @@
 	<!--C S S-->
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/general.css">
+	<link rel="stylesheet" href="css/prism.css">
 </head>

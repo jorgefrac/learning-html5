@@ -2,13 +2,13 @@
 	<nav>
 		<ul>
 			<li>
-				<a href="" title="">Titles</a>
+				<a href="pages/" title="Titles">Titles</a>
 			</li>
 			<li>
-				<a href="" title="">Text</a>
+				<a href="pages/" title="Text">Text</a>
 			</li>
 			<li>
-				<a href="" title="">Elements</a>
+				<a href="pages/" title="Elements">Elements</a>
 			</li>
 		</ul>
 	</nav>
