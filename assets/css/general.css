@@ -1,0 +1,48 @@
+.main{
+	width: 100%;
+	position: relative;
+	display: flex;
+	padding: 50px 50px;
+	margin-bottom: 50px;
+	background-color: #f3d9fa;
+	border: 1px solid #e599f7;
+}
+
+.section{
+	width: 60%;
+	position: relative;
+	background-color: #ccedff;
+}
+
+.header{
+	width: 100%;
+	position: relative;
+	padding: 10px 50px;
+	margin-bottom: 50px;
+	background-color: #d3f9d8;
+}
+
+.nav{
+	width: 100%;
+	position: relative;
+	background-color: #c5f6fa;
+}
+
+.aside{
+	width: 30%;
+	height: 80vh;
+	margin-right: 10%;
+	position: relative;
+	background-color: #fff3bf;
+}
+
+.article{
+	background-color: #ffe3e3;
+}
+
+.footer{
+	width: 100%;
+	position: relative;
+	padding: 25px 0px;
+	background-color: #cdcdcd;
+}

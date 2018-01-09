@@ -1,0 +1,22 @@
+{
+  "name": "learning-html5",
+  "version": "1.0.0",
+  "description": "Learning HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgefrac/learning-html5.git"
+  },
+  "author": "Jorge Fco.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgefrac/learning-html5/issues"
+  },
+  "homepage": "https://github.com/jorgefrac/learning-html5#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3"
+  }
+}

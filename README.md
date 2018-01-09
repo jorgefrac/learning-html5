@@ -94,6 +94,7 @@ display block
 * button
 * label
 * textarea
+* select
 * input
     - button
     - checkbox
@@ -145,17 +146,28 @@ display block
 * object
 * param
 
-## 📌 References
-📎 [Developer mozila inputs type](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input)
+## 📌 Referencias (References)
 
-📎 [Mozila HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-📎 [W3 org HTML5](https://www.w3.org/TR/html5/)
+#### Introducción (Introduction)
 
 📎 [Developer mozila HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5)
 
-📎 [HTML Reference](http://htmlreference.io/)
+#### Elements
+📎 [HTML Reference.io](http://htmlreference.io/)
 
-📎 [html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/dom.html)
+📎 [Mozila HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-📎 [html5 semantic elements w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+📎 [W3C org HTML5](https://www.w3.org/TR/html5/)
+
+📎 [HTML spec whatwg.org](https://html.spec.whatwg.org/multipage/dom.html)
+
+📎 [HTML5 semantic W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+#### Forms
+
+📎 [Developer Mozila (inputs type) ](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input)
+
+### Compatibilidad (Compatibility)
+
+📎 [W3Schools Browsers](https://www.w3schools.com/html/html5_browsers.asp)
+

@@ -10,11 +10,10 @@
 	<title>Leraning HTML5</title>
 
 	<!--F O N T S-->
-	<link href="https://fonts.googleapis.com/css?family=Zilla+Slab:300,400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet">
 
 	<!--C S S-->
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/general.css">
-	<link rel="stylesheet" href="css/prism.css">
 </head>

@@ -9,7 +9,7 @@
 	</header>
 
 	<main class="container">
-		<?php include 'pages/tables.php'; ?>
+		<?php include 'pages/forms.php'; ?>
 	</main>
 
 </body>
