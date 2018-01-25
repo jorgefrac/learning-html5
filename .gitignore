@@ -1,0 +1,15 @@
+# = EDITOR TEXT
+# ----------------------------------------------------------------------
+prepros.cfg
+prepros-6.config
+prepros.cfg
+config.codekit3
+
+# = FILES
+# ----------------------------------------------------------------------
+assets/video/*
+*.zip
+*.log
+*.php
+*.html
+*.htaccess

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jorgefrac/learning-html5#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0-beta.3"
+    "bootstrap": "^4.0.0-beta.3",
+    "font-awesome": "^4.7.0"
   }
 }

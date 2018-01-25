@@ -145,6 +145,4 @@
 		<input type="submit" name="" value="Submit">
 		<input type="reset" name="" value="Reset">
 	</div>
-
-
 </form>

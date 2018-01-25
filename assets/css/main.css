@@ -423,9 +423,15 @@ button{
 	border: 1px solid transparent;
 	vertical-align: middle;
 	-webkit-appearance: none;
-	background-color: #1c86f2;;
+	background-color: #1c86f2;
 }
 
+/*= Media
+------------------------------------------------------------------------------------------*/
+video{
+	width: 100%;
+	position: relative;;
+}
 
 /*= Placeholder
 ------------------------------------------------------------------------------------------*/
