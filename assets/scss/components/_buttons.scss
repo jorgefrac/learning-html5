@@ -1,0 +1,8 @@
+.button{
+	@extend .btn;
+}
+
+.button-primary{
+	color: #ffffff;
+	background-color: $color-primary;
+}

@@ -1,20 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<!--M E T A S-->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<!--T I T L E-->
-	<title>Leraning HTML5</title>
-
-	<!--F O N T S-->
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet">
-
-	<!--C S S-->
-	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/main.css">
-	<link rel="stylesheet" href="assets/css/app.css">
-</head>
+<header class="header">
+	<div class="container-fluid">
+		<!--TOP-->
+		<div class="header__top">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="header__top__text">
+						<p>
+							<i class="fa fa-floppy-o" aria-hidden="true"></i>
+							Documentación para Developers
+						</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="header__top__button">
+						<a href="" title="Primeros pasos" class="button button-primary">
+							Primeros pasos
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--TOP-->
+		<hgroup class="header__title">
+			<h1>Learning HTML5</h1>
+			<h2>HTML {HyperText Markup Language}</h2>
+		</hgroup>
+	</div>
+</header>

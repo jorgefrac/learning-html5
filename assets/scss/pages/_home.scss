@@ -1,7 +1,12 @@
 .home{
-
+	width: 100%;
+	position: relative;
+	margin-top: 65px;
 }
 
 .home__items{
+	margin-bottom: 35px;
+	padding: 50px 30px;
 	background-color: $color-accent;
+	@extend .box-shadow-style;
 }

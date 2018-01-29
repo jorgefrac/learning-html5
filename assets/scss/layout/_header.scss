@@ -1,4 +1,42 @@
 .header{
 	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	position: relative;
+	background-color: $color-accent;
+}
+
+.header__top{
+	width: 100%;
+	position: relative;
+}
+
+.header__top__text{
+	width: 100%;
+	position: relative;
+	p{
+		color: $color-text-light;
+		margin: 0;
+		position: relative;
+		i{
+			margin-right: 6px;
+		}
+	}
+}
+
+.header__top__button{
+	width: 100%;
+	position: relative;
+	text-align: right;
+}
+
+.header__title{
+	width: 100%;
+	position: relative;
+	h1{
+		font-size: 64px;
+	}
+	h2{
+		font-size: 16px;
+	}
 }
