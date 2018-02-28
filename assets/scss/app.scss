@@ -1,6 +1,10 @@
-@import "../../node_modules/bootstrap/scss/bootstrap.scss";
-@import "helpers/helpers";
-@import "base/base";
-@import "layout/layout";
-@import "components/components";
-@import "pages/pages";
+/*
+	APP CORE
+*/
+
+@import 	"vendors/vendors";
+@import 	"helpers/helpers";
+@import 	"base/base";
+@import 	"layout/layout";
+@import 	"components/components";
+@import 	"pages/pages";
